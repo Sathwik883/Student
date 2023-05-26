@@ -22,9 +22,5 @@ public class MainActivity extends AppCompatActivity {
     public void admlgn(View view) {
         Intent i=new Intent(MainActivity.this,AdminLogin.class);
         startActivity(i);
-<<<<<<< HEAD
     }
-=======
-    }//hello
->>>>>>> 5cd6a29 (Initial commit)
-}
+}//hello Sathwik
